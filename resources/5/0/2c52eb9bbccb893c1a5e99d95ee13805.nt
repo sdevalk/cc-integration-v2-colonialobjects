@@ -1,0 +1,12 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#description> "Olifantstand, versierd met goudplaat, in houder op voetstuk van verguld hout, liggend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#identifier> "R3967" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#additionalType> "olifantstand" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#material> "goud" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#material> "hout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#material> "ivoor" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#creator> "Kuijpers, H.J." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/103731> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
