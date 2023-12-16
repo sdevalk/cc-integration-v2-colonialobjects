@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#description> "Regen-/oorlogsgod: hoofd met gespleten tong. Fragment afkomstig van kleine figurines uit graven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#identifier> "AB15430" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/3f0de328-db2a-3384-43fd-4b2697884b88.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13345> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

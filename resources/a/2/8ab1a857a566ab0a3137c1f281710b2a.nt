@@ -1,0 +1,14 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#description> "Langwerpig masker met schelpenrand-decoratie" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#identifier> "AB15394" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "varkensslagtand" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "hout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "casuarisveren" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "mensenhaar" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "sagobladvezels" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#material> "schelpen" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#creator> "Beneden-Sepik, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13285> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

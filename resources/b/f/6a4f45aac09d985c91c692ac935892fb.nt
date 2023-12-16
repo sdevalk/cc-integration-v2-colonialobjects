@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#description> "Fragment van een beeld: oorlogs-/regengod met grote ogen. Fragment afkomstig van kleine figurines uit graven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#identifier> "AB15399" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/355aa147-9b51-6eca-5d58-6a8b0e11eec8.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13290> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
