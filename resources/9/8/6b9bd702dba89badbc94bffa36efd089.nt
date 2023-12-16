@@ -1,0 +1,9 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#description> "Lichtblauwe lap stof met meerkleurige bloemdecoratie. Originele verpakking van opgerold Japans papier." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#identifier> "XN600-B9" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#additionalType> "lap" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169628> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

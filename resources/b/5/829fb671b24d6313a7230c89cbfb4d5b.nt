@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#description> "Houten sigarenkistje (DLA) waarin een verzameling van in de natuur gevonden objecten (DLB): 1 rijstaar, 1 gemberwortel, 2 zadendozen van een katoen plant, 4 takjes van een doornhaag, 3 platte onbekende pitten waarvan er een is doorgesneden, 1 doosje met &quot;vruchtjes van den zeepboom (Noord afrika)&quot; en 1 doosje met &quot;hars cut vurenhout&quot;." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#identifier> "E1351" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#additionalType> "naturalia" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#material> "papier" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#material> "hout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/57930> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

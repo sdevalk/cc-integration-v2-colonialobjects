@@ -1,0 +1,8 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#description> "Houtsnijwerk, vermoedelijk een Japanse militair met karwats voorstellend, oorlogssouvenir" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#identifier> "AB25711-AO" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#additionalType> "beeldhouwwerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137522> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

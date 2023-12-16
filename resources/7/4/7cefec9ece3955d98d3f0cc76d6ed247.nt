@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#description> "Op de buik twaalf rood gekleurde reliëfnokjes versierd met tweekoppige draken en in het midden een zeeplant. Terracotta in licht gele aarde met rode beschildering." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#identifier> "LM00238" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#additionalType> "dodenkruik" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#material> "terracotta" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/85b93388-1afb-e796-2c11-832b70e8b06e.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87595> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

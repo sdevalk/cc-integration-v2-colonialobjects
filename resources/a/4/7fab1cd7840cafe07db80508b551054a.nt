@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#description> "Versiering van schuine ruitvormen, waaromheen een rand in zwart, rood, lila, blauw en lichtgrijs. Aan weerszijden hetzelfde patroon." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#identifier> "LM02825" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#additionalType> "tapijt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/49db08cb-42fa-aec6-6d72-ec17c5e9cbee.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88401> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

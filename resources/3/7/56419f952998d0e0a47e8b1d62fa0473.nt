@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#description> "Zilveren blaadje op voet, achtlobbig model, gegraveerd met pseudo-monogram binnen een omlijsting van bladvoluten die aan de bovenkant samenkomen in een kroon; de geschulpte rand is versierd met een fries van knerren die op de inspringende gedeelten worden onderbroken door een gestileerd acanthusblad, op een plastisch opgetrokken voet die middels een schroef met de schotel is verbonden." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#identifier> "AB24364" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#additionalType> "blad" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/cd49db02-0e63-f1e5-4492-85620e753fe4.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22904> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

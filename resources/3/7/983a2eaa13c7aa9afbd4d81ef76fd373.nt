@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#name> "Hengselmandje" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#description> "Een mand gemaakt van kruidnagels. Decoratief object. Veelal gemaakt voor toeristen als souvenir / aandenken. Ook vaak getoond op jaarmarkten en wereldtentoonstellingen." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#identifier> "AB624" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#additionalType> "mand" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#material> "kruidnagelen" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#material> "pitriet" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/29391> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

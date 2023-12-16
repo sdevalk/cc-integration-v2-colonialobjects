@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#description> "Zilveren schenkpiring, enigszins grof uitgevoerd, vierkant blad met naar binnen zwenkende hoeken en een rand van meanderende voluten die worden afgewisseld door bladmotieven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#identifier> "AB24359" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#additionalType> "schenkpiring" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/849b0a94-5049-5f76-f8dc-96c3c569387a.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22898> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

@@ -1,0 +1,13 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#name> "Sirihkistje (met sleuteltje)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#description> "Sirihkist, rechthoekig, van tropisch ebbenhout met beslag van zilver. Heeft een scharnierend deksel (scharnierplaten). Beslag op de hoeken van wanden en deksel en als achterplaat van het handvat op de deksel. De slotplaat in de vorm van een betel- / pinangnoot, met sleutel van zilver. Rond de slotplaat vier rozetten. Op het deksel zes rozetten.\r\nVoor het bewaren van sirihbladeren en betel- of arekanoten." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#identifier> "AB24368" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#additionalType> "sirihkistje" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#material> "amboinahout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#material> "ebbenhout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/1f3fd6a1-164c-2fe9-c222-3c6dbd32d33d.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22908> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
