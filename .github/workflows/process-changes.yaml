@@ -25,7 +25,7 @@ jobs:
         run: |
           cd ./code
           npm ci
-          npx turbo run build --filter=@colonial-collections/graph-init
+          npx turbo run build --filter=@colonial-collections/graph-init --filter=@colonial-collections/graph-query
       - name: Collect and queue IRIs from a SPARQL endpoint
         run: |
           cd ./data
@@ -35,7 +35,18 @@ jobs:
             --number-of-iris-per-request 100 \
             --wait-between-requests 500 \
             --resource-dir ./resources \
-            --queue-file ./queue/queue.sqlite
+            --queue-file ./queue/data.sqlite
+      - name: Create or update a graph by querying a SPARQL endpoint
+        run: |
+          cd ./data
+          ../code/apps/graph-query/dist/cli.js query \
+            --resource-dir ./resources \
+            --queue-file ./queue/data.sqlite \
+            --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
+            --query-file ./queries/generate.rq \
+            --number-of-concurrent-requests 10 \
+            --wait-between-requests 100 \
+            --batch-size 10
       - name: Save changes
         run: |
           cd ./data
