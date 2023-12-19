@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#description> "Het bolvormige lichaam van de zilveren kwispedoor op holle, uitlopende voet, is verdeeld in twaalf sementen, waarvan de lijnen aan de onderkant stervormig samenkomen. De wijd uitstaande, trechtervormige hals met rand is aan de binnenkant van het lichaam vastgemaakt met drie platte nageltjes, die ook aan de buitenkant zichtbaar zijn. De rand is versierd met vier opgelegde randen op twaalf plaatsen bij elkaar gehouden, afwisselend door één of twee blaadjes." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#identifier> "AB24373" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#additionalType> "kwispedoor" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/e2621355-8acc-2fd8-7486-7f3b1cb81c59.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22914> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

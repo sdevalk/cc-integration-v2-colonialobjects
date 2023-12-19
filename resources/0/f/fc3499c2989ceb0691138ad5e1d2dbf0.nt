@@ -1,0 +1,9 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#description> "Tas van gekleurde kralen met kwastjes" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#identifier> "AB25711-Q" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#additionalType> "tas" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#material> "kralen" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137486> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

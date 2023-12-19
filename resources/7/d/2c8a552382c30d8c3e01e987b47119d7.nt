@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#description> "Gezicht van oude god: man met baard en 1 tand. Fragment afkomstig van kleine figurines uit graven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#identifier> "AB15423" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/22b9889f-60af-425c-f245-6b7d3bca29b6.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13331> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

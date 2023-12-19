@@ -1,0 +1,12 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#description> "Blauwe lap stof met een brede rand rondom met kasjmier- of gülmotief (bloem) in goud- en zilverdraad opgelegd en passement met gouddraad aan lange zijden. Bijbehorende houten stok met rode uiteinden." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#identifier> "XN599-B5" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#additionalType> "lap" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#material> "zilverdraad" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#material> "gouddraad" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169608> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

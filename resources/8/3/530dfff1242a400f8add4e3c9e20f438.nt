@@ -1,0 +1,9 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#description> "Perzisch" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#identifier> "LM03852" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#additionalType> "tapijt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#material> "textielmaterialen" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/149697> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

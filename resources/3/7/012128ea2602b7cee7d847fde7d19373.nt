@@ -1,0 +1,12 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#description> "Figuur met rood gezicht en waaiervormige hoofdtooi. Fragment afkomstig van kleine figurines uit graven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#identifier> "AB15422" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/9d224ffa-8021-17ff-4f65-94286191d792.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/6df648da-29fb-0dd9-3e84-e4701f9733d0.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13330> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

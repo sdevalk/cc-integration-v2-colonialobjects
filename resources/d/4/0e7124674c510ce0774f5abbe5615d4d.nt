@@ -1,0 +1,9 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#description> "Metalen (brons) figuurtje met een aantal geïnciseerde cirkels rond de nek en de heupen." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#identifier> "XN2456" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#additionalType> "sculptuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/135456> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

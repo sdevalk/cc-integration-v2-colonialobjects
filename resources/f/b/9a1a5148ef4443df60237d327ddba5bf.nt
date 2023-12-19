@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#description> "Rood vilten band (sjerp) met blauw vilten borduursel in kettingsteek van een bloemenvaas of -kelk." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#identifier> "XN599-B11" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#additionalType> "sjerp" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#material> "vilt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169613> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

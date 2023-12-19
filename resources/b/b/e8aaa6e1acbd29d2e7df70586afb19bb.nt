@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#description> "Witte sjaal met gekleurde strepen, ruitjes en bloemen. Franje kwastjes van zijde en metaaldraad." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#identifier> "XN599-B3" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#additionalType> "sjaal" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#material> "metaaldraad" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169606> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

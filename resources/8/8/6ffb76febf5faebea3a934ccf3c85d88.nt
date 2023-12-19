@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#description> "Buffelmasker: rood-zwart gekleurde kop met lange horens. Niet gebruikt voor rituele doeleinden, vermoedelijk vervaardigd voor de externe verkoop." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#identifier> "AB15389" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#material> "verf" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#material> "hout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13279> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

@@ -1,0 +1,12 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#description> "Vaandel met met zwarte wollen Japanse tekens (karakters) op een lichtroze achtergrond met groene fluwelen randen en groene franje van zijden koord aan de onderrand." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#identifier> "XN599-B8" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#additionalType> "vlag" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#material> "vilt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#material> "fluweel" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/169611> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

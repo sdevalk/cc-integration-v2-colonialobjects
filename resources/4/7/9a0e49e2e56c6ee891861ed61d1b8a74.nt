@@ -1,0 +1,9 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#description> "Oosters tapijt. Rand met vijf banden waarvan de middelste het breedst en met in rood fond uitgespaarde bloemmotieven en krullende bladranken. Middenvlak met beige fond en uitgespaarde krullende bladranken." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#identifier> "R13529" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#additionalType> "Oosters tapijt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/98665> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

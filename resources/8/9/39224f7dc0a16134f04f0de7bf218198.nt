@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#description> "Opzetdansmasker: hoornsmasker op ondergrond van touwwerk. Niet gebruikt voor rituele doeleinden, vermoedelijk vervaardigd voor de externe verkoop." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#identifier> "AB15390" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#material> "touw" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#material> "hout" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#material> "verf" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#creator> "Igbo, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13281> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

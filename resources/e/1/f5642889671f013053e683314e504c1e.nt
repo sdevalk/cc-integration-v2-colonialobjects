@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#description> "Gezicht omlijst met haar in twee symmetrische haarstrengen. Fragment afkomstig van kleine figurines uit graven." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#identifier> "AB15415" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/cbdefebe-5af2-971a-eee8-06c3972f528d.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/13318> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

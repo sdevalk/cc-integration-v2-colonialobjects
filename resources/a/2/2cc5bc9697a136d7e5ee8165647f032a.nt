@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#description> "Vaasvorm met mensenhoofd aan de hals, verbonden met twee takvormige uiteinden. Terracotta van donkergrijze kleur." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#identifier> "LM00228" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#additionalType> "dodenkruik" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#material> "terracotta" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/350460c7-f96f-c65c-a4bc-0b0b7306abbf.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/87585> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

@@ -1,0 +1,11 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#description> "Carmijnrood oosters tapijt (deurkleed) met geel en blauwgroen. Doorlopende rand, zigzagvormige dwarsmotieven aan de korte zijden en een langwerpige ruit in het midden." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#identifier> "LM02811" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#additionalType> "tapijt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#material> "geknoopt" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/0cbe4e88-fd8f-6f64-9d47-5a430a47a33e.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88389> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

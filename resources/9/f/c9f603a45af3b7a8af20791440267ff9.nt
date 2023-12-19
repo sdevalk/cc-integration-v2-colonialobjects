@@ -1,0 +1,10 @@
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#name> "-" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#description> "Zilveren schenkpiring. Het blad heeft een regelmatig geschulpte rand met bolle en hoekige zijden, waarop vier symmetrisch naar elkaar toegewende bladmotieven eindigend in een krul." .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#identifier> "AB24375" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#additionalType> "schenkpiring" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#creator> "onbekend" .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#image> <http://images.memorix.nl/rce/thumb/1600x1600/431a7f63-78e2-ac96-9736-6b50245c466e.jpg> .
+<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22916> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
