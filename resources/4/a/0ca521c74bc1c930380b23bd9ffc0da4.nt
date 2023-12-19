@@ -1,9 +1,0 @@
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#name> "-" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#description> "Houten beeld van de god Vishnu op zijn rijdier Garuda." .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#identifier> "AB25711-AA" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#additionalType> "beeldhouwwerk" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#material> "hout" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137498> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

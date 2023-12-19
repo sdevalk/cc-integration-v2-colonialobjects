@@ -1,9 +1,0 @@
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#name> "-" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#description> "Loop van kanon, van brons" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#identifier> "AB33" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#additionalType> "kanon" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#material> "brons" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/25278> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
