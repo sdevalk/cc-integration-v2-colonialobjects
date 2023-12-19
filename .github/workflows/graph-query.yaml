@@ -45,7 +45,7 @@ jobs:
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
             --triplydb-service-name "search" \
             --triplydb-service-type "elasticsearch" \
-            --graph-name "https://data.colonialcollections.nl/rce/colonial-objects" \
+            --graph-name "https://data.colonialcollections.nl/rce-colonial-objects" \
             --dir-temp "$RUNNER_TEMP"
       - name: Save changes
         run: |
