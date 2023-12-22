@@ -1,11 +1,16 @@
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/5538b4ee-563a-4e10-aea5-aaebef62a1d3> .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#additionalType> "olifantstand" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#identifier> "R3968-A" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#description> "Olifantstand, rechtopstaand in bronzen houder op voetstuk van palissander- en teakhout." .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/64eac3e6-2db1-4c77-9195-d45295264c28> .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/a2132619-40b8-475b-95ae-07bce96d2dbb> .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> "brons" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> "ivoor" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> "teakhout" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> "palissanderhout" .
-<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/bec4d1c7-bfae-4705-b8c3-95f0d0958029> .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/9ce7eb84-468e-4be7-bdf2-d862aebd1adf> .
+<https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/e759fac5115f87a8dc86d2388d3bb301> <https://colonialcollections.nl/schema#creator> "onbekend" .

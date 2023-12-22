@@ -1,9 +1,12 @@
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/05e3a96b-0cdd-40d9-b98f-d629747b741e> .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#additionalType> "dierplastiek" .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#identifier> "W59" .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#name> "Dier" .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#description> "Houtsnijwerk in de vorm van een dier, vermoedelijk een mythische slang (naga) voorstellend." .
+<https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/4fc19669-5a77-4808-b382-575d43cc83a1> .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#material> "ivoor" .
+<https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/bec4d1c7-bfae-4705-b8c3-95f0d0958029> .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#material> "HOORN" .
-<https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/9ff54b88c2e1ecd8e372641eb9e11f8e> <https://colonialcollections.nl/schema#creator> "onbekend" .

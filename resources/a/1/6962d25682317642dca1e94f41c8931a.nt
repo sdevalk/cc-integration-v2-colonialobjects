@@ -1,12 +1,18 @@
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#additionalType> "schrijfcassette" .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/da66c90e-8e91-44f1-ad74-36037d4ef70d> .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#identifier> "XN2531" .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#description> "Schrijfcassette van zwarte Chinese lak met parelmoer inleg. Op de deksel staat een voorstelling met twee fazanten en bloemen. Langs de zijranden is een bloemenpatroon aangebracht. Ook op de plankjes zijn bloementakken te zien." .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/3b108ea7-8f50-46b0-a4e2-4dda410f0cab> .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> "lak" .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/b9fd0887-297b-4bab-bea5-cb288d068816> .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> "stof (textiel)" .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> "metaal" .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/86d3631a-1f3f-4b51-bbbb-dadebc310ecc> .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/3e6302c4-7ad8-4d66-a4b4-9dca1daa3b21> .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#material> "parelmoer" .
-<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/2b76aa10f99fa88e11804a4f22c7c064> <https://colonialcollections.nl/schema#creator> "onbekend" .

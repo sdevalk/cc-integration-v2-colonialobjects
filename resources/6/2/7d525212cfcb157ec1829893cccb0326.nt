@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/4b3c8d91-e0b8-4b41-b899-34bb33eb4b53> .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#additionalType> "huisaltaar" .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#identifier> "LM03944" .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#description> "Fragment van een huisaltaar, halfrond, in het middengedeelte vier rijen met boeddha’s" .
+<https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/dfbf8107-09f9-49c9-8118-8e79b7613723> .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/e038687f5604b42456fdd7682068a261> <https://colonialcollections.nl/schema#creator> "onbekend" .

@@ -1,9 +1,11 @@
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#additionalType> "Oosters tapijt" .
+<https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/f3ea5e8a-cc20-4d83-b8a3-5552c331d5d4> .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#identifier> "W2059" .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#description> "Oosters tapijt, van wol" .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#description> "Loper, Oosters tapijt, van wol. Fragment van geknoopt tapijt met geometrische motieven in verschillende kleuren" .
+<https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/a1025e05fb62387fc25ad7c1b40a9787> <https://colonialcollections.nl/schema#creator> "onbekend" .

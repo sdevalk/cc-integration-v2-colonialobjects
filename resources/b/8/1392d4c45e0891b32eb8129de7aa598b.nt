@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#additionalType> "netsuke" .
+<https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/016eac40-01e0-4c57-8217-89e8cdb5007d> .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#identifier> "LM02952-A" .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#description> "Houten okimono voorstellende een muis." .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#material> "hout" .
-<https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
+<https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/22c40077f79e526dfc8752445b955099> <https://colonialcollections.nl/schema#creator> "onbekend" .

@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#additionalType> "zwaardschede" .
+<https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/1c301be5-fdef-48d9-a69e-a10f085381f8> .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#identifier> "R3517-B" .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#description> "(B) Schede van hout met ijzeren banden, bij zwaard (A)" .
+<https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#material> "hout" .
-<https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/2992f4c334beeb9fdf403100cd70cd8b> <https://colonialcollections.nl/schema#creator> "onbekend" .
