@@ -19,11 +19,11 @@ CONSTRUCT {
     cc:name ?name ;
     cc:description ?description ;
     cc:material ?materialName ;
-    cc:publisher ?publisherName ;
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ;
     cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
-    cc:countryCreated ?countryCreatedName .
+    cc:countryCreated ?countryCreatedName ;
+    cc:publisher ?publisherName .
 }
 WHERE {
   BIND(?_iri AS ?this)
