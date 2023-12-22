@@ -5,7 +5,7 @@
 PREFIX cc: <https://colonialcollections.nl/schema#> # Internal ontology
 PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
 PREFIX dig: <http://www.ics.forth.gr/isl/CRMdig/>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX gn: <http://www.geonames.org/ontology#>
 PREFIX la: <https://linked.art/ns/terms/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
@@ -20,7 +20,10 @@ CONSTRUCT {
     cc:description ?description ;
     cc:material ?materialName ;
     cc:publisher ?publisherName ;
-    cc:creator ?creatorName .
+    cc:creator ?creatorName ;
+    cc:locationCreated ?locationCreatedName ;
+    cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
+    cc:countryCreated ?countryCreatedName .
 }
 WHERE {
   BIND(?_iri AS ?this)
@@ -133,5 +136,27 @@ WHERE {
   ####################
   # Location of creation
   ####################
-  # TBD: not in the KG yet (crm:P108i_was_produced_by/crm:P7_took_place_at)
+
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P7_took_place_at ?location .
+    ?location gn:name ?locationCreatedName ;
+      gn:featureCode ?featureCode .
+    FILTER(LANG(?locationCreatedName) = "" || LANGMATCHES(LANG(?locationCreatedName), "en"))
+
+    OPTIONAL {
+      ?location gn:alternateName ?alternateLocationCreatedName
+      FILTER(LANG(?alternateLocationCreatedName) = "" || LANGMATCHES(LANG(?alternateLocationCreatedName), "en"))
+    }
+
+    # Country of which the location is a part
+    OPTIONAL {
+      ?location gn:parentCountry ?country .
+      ?country gn:name ?tmpCountryCreatedName .
+      FILTER(LANG(?tmpCountryCreatedName) = "" || LANGMATCHES(LANG(?tmpCountryCreatedName), "en"))
+    }
+
+    # Location could be a country
+    # https://www.geonames.org/export/codes.html
+    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?tmpCountryCreatedName) AS ?countryCreatedName)
+  }
 }
