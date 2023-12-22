@@ -1,12 +1,9 @@
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#additionalType> "tapijt" .
-<https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/0e27175e-cf3a-40cd-9c33-55d9127fa6fd> .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#identifier> "R14036" .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#description> "Grof geknoopt tapijt, wollen knoop, katoenen ketting en inslag, knoop in gebroken wit en bruin, motief afgeleid van oosterse tapijten." .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/a5835fe7-c0e0-4750-a5f5-c2632321a8fa> .
-<https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#material> "katoen" .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/7deb5282a727d0bf0a55e104bce0c8bb> <https://colonialcollections.nl/schema#creator> "onbekend" .

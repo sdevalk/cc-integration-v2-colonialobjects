@@ -1,13 +1,9 @@
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#additionalType> "olifantstand" .
-<https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/5538b4ee-563a-4e10-aea5-aaebef62a1d3> .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#identifier> "R3967" .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#description> "Olifantstand, versierd met goudplaat, in houder op voetstuk van verguld hout, liggend" .
-<https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> "ivoor" .
-<https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/bec4d1c7-bfae-4705-b8c3-95f0d0958029> .
-<https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/87732f1f-badc-482e-b596-cdd356dc6c1d> .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#material> "goud" .
 <https://n2t.net/ark:/27023/2c52eb9bbccb893c1a5e99d95ee13805> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .

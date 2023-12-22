@@ -1,16 +1,11 @@
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/053ec816-8dc9-46ea-b3e4-ee9ab8e89b6d> .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#additionalType> "vlag" .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#identifier> "XN599-B8" .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#description> "Vaandel met met zwarte wollen Japanse tekens (karakters) op een lichtroze achtergrond met groene fluwelen randen en groene franje van zijden koord aan de onderrand." .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> "zijde" .
-<https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/4882e50c-2f15-4ddd-a933-e1bf4cc0475c> .
-<https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/570a2de4-ddee-4070-9288-75295b290a99> .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> "vilt" .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> "fluweel" .
-<https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/eec26172-0615-42b1-91c5-8085f5ee4e6f> .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/fa1a26966655bb64a31f62c55a38cbb0> <https://colonialcollections.nl/schema#creator> "onbekend" .

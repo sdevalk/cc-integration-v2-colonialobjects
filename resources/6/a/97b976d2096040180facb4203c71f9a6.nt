@@ -1,10 +1,8 @@
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#additionalType> "Oosters tapijt" .
-<https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/f3ea5e8a-cc20-4d83-b8a3-5552c331d5d4> .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#identifier> "R13529" .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#description> "Oosters tapijt. Rand met vijf banden waarvan de middelste het breedst en met in rood fond uitgespaarde bloemmotieven en krullende bladranken. Middenvlak met beige fond en uitgespaarde krullende bladranken." .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/9a0e49e2e56c6ee891861ed61d1b8a74> <https://colonialcollections.nl/schema#creator> "onbekend" .

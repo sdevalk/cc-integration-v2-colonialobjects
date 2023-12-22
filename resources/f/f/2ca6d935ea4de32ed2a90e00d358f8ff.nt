@@ -1,13 +1,9 @@
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/20bcbb64-d439-411c-b332-fe2d3e162a24> .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#identifier> "AB15390" .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#description> "Opzetdansmasker: hoornsmasker op ondergrond van touwwerk. Niet gebruikt voor rituele doeleinden, vermoedelijk vervaardigd voor de externe verkoop." .
-<https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> "verf" .
-<https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/7a795abe-51b8-4f72-85bf-aa2ccce7ff02> .
-<https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/1eddfc87-4f40-4553-aa1a-ad410a0610ae> .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#material> "touw" .
 <https://n2t.net/ark:/27023/39224f7dc0a16134f04f0de7bf218198> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .

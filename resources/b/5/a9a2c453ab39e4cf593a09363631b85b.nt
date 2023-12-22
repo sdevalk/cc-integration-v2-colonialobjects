@@ -1,12 +1,9 @@
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/20bcbb64-d439-411c-b332-fe2d3e162a24> .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#identifier> "AB15419" .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#name> "Fragment van een figuur" .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#description> "Roodgekleurd gezicht van vooroudergod. Fragment afkomstig van kleine figurines uit graven." .
-<https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/dfbf8107-09f9-49c9-8118-8e79b7613723> .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#material> "pigment" .
-<https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2d4ff601-9025-4667-811d-a4fe8da87b4d> .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#material> "aardewerk" .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/23d1ad30767b9268e177e2e51200f38e> <https://colonialcollections.nl/schema#creator> "Teotihuacan, Volk van" .

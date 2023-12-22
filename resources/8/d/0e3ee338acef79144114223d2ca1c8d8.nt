@@ -1,12 +1,9 @@
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#additionalType> "olifantstand" .
-<https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/5538b4ee-563a-4e10-aea5-aaebef62a1d3> .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#identifier> "R3966-B" .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#name> "-" .
-<https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#description> "Olifantstand met aan het uiteinde een zilveren dop met tekst. Geschenk van 'Negara Soematera Selatan' (provincie Zuid-Sumatra) voor H.M. Juliana bij haar troonsbestijging in 1948." .
+<https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#description> "Olifantstand met aan het uiteinde een zilveren dop met tekst. Geschenk van &apos;Negara Soematera Selatan&apos; (provincie Zuid-Sumatra) voor H.M. Juliana bij haar troonsbestijging in 1948." .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/bec4d1c7-bfae-4705-b8c3-95f0d0958029> .
-<https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/edfb1e84-1d31-4e7e-9fa5-f4e6aa5a88fa> .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#material> "ivoor" .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/6d9bec95df2d9442a8379751c841a0c8> <https://colonialcollections.nl/schema#creator> "onbekend" .

@@ -1,20 +1,13 @@
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#additionalType> "figuurplastiek" .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/20bcbb64-d439-411c-b332-fe2d3e162a24> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#identifier> "AB15394" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#description> "Langwerpig masker met schelpenrand-decoratie" .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/da58a708-88e8-45fd-a3bb-07bc9125330d> .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/1a35de9a-6ef9-4c64-ac1a-a67864cbf92e> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "schelpen" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "mensenhaar" .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/6a52c326-d332-461d-8861-92db384c2f1d> .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/7629d510-b649-4d9f-92eb-5414833de64a> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "sagobladvezels" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "varkensslagtand" .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/c1726829-b45a-484d-ae76-d42f419f7703> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "casuarisveren" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> "hout" .
-<https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/e0c7baaa-fde4-4561-b354-0031e90ebbec> .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/8ab1a857a566ab0a3137c1f281710b2a> <https://colonialcollections.nl/schema#creator> "Beneden-Sepik, Volk van" .
