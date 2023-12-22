@@ -1,11 +1,16 @@
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/621dfb84-aa51-4459-abe0-5a36a2a4b8bc> .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#additionalType> "lap" .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#identifier> "XN600-B5" .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#description> "Blauwe lap stof met een raster van zilveren of gouden lamellen en met herhalende banen ingeweven motieven van meerkleurige pioenrozen en andere bloemen en medaillons met draken of feniksen. Originele verpakking van houten stok en Japans papier." .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> "goud" .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/87732f1f-badc-482e-b596-cdd356dc6c1d> .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/edfb1e84-1d31-4e7e-9fa5-f4e6aa5a88fa> .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2d28d9aa-77e8-40ab-b0fe-f04d99f57955> .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/570a2de4-ddee-4070-9288-75295b290a99> .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#material> "papier" .
-<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/7124df11db139ddfbb72411ff3738fe5> <https://colonialcollections.nl/schema#creator> "onbekend" .

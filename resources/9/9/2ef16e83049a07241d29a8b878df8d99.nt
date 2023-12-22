@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#additionalType> "Meshkin-tapijt" .
+<https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/7689490b-7d23-4d3b-8faf-272a6013fd14> .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#identifier> "B3106" .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#description> "Meshkin-tapijt, van wol, uitgevoerd in Ghiordesknoop, oneindig rapport van zeshoeken op bruin fond." .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
+<https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/289c63f12d3c67196f5dd84f1b8b0140> <https://colonialcollections.nl/schema#creator> "onbekend" .

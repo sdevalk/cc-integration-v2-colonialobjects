@@ -1,9 +1,12 @@
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#additionalType> "Feraghan-tapijt" .
+<https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/edd83013-0c42-4e3f-8f60-3d3028660d5f> .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#identifier> "R5833" .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#description> "Feraghan-tapijt, van wol. In het midden herhalend patroon van bloemen en bladeren. 7 randen met Herati-patroon." .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
+<https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/a5835fe7-c0e0-4750-a5f5-c2632321a8fa> .
+<https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/2c3f6e5569b2533e98080fae3972c7c7> <https://colonialcollections.nl/schema#creator> "onbekend" .

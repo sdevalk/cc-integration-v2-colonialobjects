@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/61a3fbfd-aec9-4d50-ab15-e9ed7d09c1c9> .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#additionalType> "Ersari-tapijt" .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#identifier> "R5724" .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#description> "Ersari-tapijt, van wol, geknoopt in Senneh-knoop." .
+<https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/2c2cd90a-95eb-4754-9a14-84bc394aebdc> .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/93657a00160fc9885bde061fdf1301a8> <https://colonialcollections.nl/schema#creator> "onbekend" .

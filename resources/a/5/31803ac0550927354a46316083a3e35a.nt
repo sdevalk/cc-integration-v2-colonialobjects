@@ -1,9 +1,12 @@
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#additionalType> "kledingstuk" .
+<https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/5dec9aa2-5ced-4f77-b929-c043b90b2a8f> .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#identifier> "XN599-B9" .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#description> "Cape met capuchon met kwastjes, zijde met gouddraad in geweven motieven." .
+<https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/570a2de4-ddee-4070-9288-75295b290a99> .
+<https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/ea49f8e0-0875-4426-bac4-71de16baa7e8> .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#material> "zijde" .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#material> "gouddraad" .
-<https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/623a7b38c47787f9ace39b1c71fed45c> <https://colonialcollections.nl/schema#creator> "onbekend" .

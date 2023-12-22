@@ -1,9 +1,12 @@
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/034549a9-c41c-42d9-94f0-4fd90aeb710a> .
+<https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/8c0b9956-060e-4f3e-9e22-27175c7e79f1> .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#additionalType> "deksel" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#additionalType> "beeldhouwkunst" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#identifier> "AB25711-AP" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#description> "Blikken deksel van een etensblik met daarin uitgeklopt de beeltenis van een jongedame, oorlogssouvenir" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#material> "aluminium" .
-<https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/da1106de-0aa0-4591-9cf7-11ac08b5befc> .
+<https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/093ca80dc453fe7a3dee8b5b753be8ae> <https://colonialcollections.nl/schema#creator> "onbekend" .

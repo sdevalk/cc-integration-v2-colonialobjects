@@ -1,8 +1,10 @@
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#additionalType> "miniatuur" .
+<https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#additionalType> <https://data.cultureelerfgoed.nl/term/id/cht/c3adf541-9ab1-4baa-991c-7f773626f5f8> .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#identifier> "AB25711-AM" .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#name> "-" .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#description> "Zilverfiligraan model van een familiewoning van de Minangkabau" .
+<https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#material> <https://data.cultureelerfgoed.nl/term/id/cht/edfb1e84-1d31-4e7e-9fa5-f4e6aa5a88fa> .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
+<https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#publisher> "Rijksdienst voor het Cultureel Erfgoed (RCE)" .
 <https://n2t.net/ark:/27023/4336baaa8e63c7fefee526fc50dc7e10> <https://colonialcollections.nl/schema#creator> "onbekend" .
