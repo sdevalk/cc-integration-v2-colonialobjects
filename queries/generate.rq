@@ -19,10 +19,8 @@ CONSTRUCT {
     cc:name ?name ;
     cc:description ?description ;
     cc:material ?materialName ;
-    cc:isPartOf ?datasetName ;
     cc:publisher ?publisherName ;
-    cc:creator ?creatorName ;
-    cc:image ?contentUrl . # TBD: fetch from triplestore instead?
+    cc:creator ?creatorName .
 }
 WHERE {
   BIND(?_iri AS ?this)
@@ -107,11 +105,6 @@ WHERE {
   # ?this la:member_of ?dataset .
   BIND(<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects> AS ?dataset)
 
-  OPTIONAL {
-    ?dataset schema:name ?datasetName
-    FILTER(LANG(?datasetName) = "" || LANGMATCHES(LANG(?datasetName), "en"))
-  }
-
   ####################
   # Publisher of dataset
   ####################
@@ -141,16 +134,4 @@ WHERE {
   # Location of creation
   ####################
   # TBD: not in the KG yet (crm:P108i_was_produced_by/crm:P7_took_place_at)
-
-  ####################
-  # Image
-  ####################
-
-  OPTIONAL {
-    ?this crm:P65_shows_visual_item/la:digitally_shown_by [
-      a dig:D1_Digital_Object ;
-      crm:P2_has_type <http://vocab.getty.edu/aat/300215302> ; # Digital image
-      la:access_point ?contentUrl
-    ] ;
-  }
 }
