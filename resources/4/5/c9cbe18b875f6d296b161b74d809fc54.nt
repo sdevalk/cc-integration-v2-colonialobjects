@@ -1,9 +1,0 @@
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#name> "-" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#description> "Rechthoekig zilveren sirihkistje op vier afgeplatte bolpootjes met een scharnierend plat deksel, aan weerszijde een handvat opgebouwd uit C-voluten en een binnenwerk bestaande uit twee uitneembare scheidingswanden. Op deksel en voorkant aan weerskanten van het sleutelgat vier geribde noppen, aan de achterkant twee. Op het deksel een ovaal medaillon gegraveerd waarin een bloem met bladeren, waaromheen een strik. Langs de rand een lijst met bloem- en bladrank; in de hoeken een waaiervorm waarin bloempjes. Rond het sleutelgat een twee-koppige vogel gegraveerd en in alle hoeken een bloem- en bladornament." .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#identifier> "AB24371" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#additionalType> "kist" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/22912> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

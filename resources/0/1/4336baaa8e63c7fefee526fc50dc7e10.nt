@@ -1,9 +1,0 @@
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#name> "-" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#description> "Zilverfiligraan model van een familiewoning van de Minangkabau" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#identifier> "AB25711-AM" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#additionalType> "miniatuur" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/137520> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .

@@ -1,9 +1,0 @@
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#name> "-" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#publisher> "Colonial Heritage" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#description> "Tapijt met ingewerkte rand met 27 achthoeken en stervormen in afwisselende kleuren. In het midden 12 medaillons, diagonaalsgewijs in kleinere velden onderverdeeld in afwisselende kleuren. De kleuren zijn carmijnrood, vermiljoen, donker- en lichtblauw, blauwgroen en grijsbruin." .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#identifier> "LM02819" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#additionalType> "Bokhara-tapijt" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://linkeddata.cultureelerfgoed.nl/colonialheritage/colonialobjects/id/88397> <https://colonialcollections.nl/schema#isPartOf> "Colonial Objects" .
