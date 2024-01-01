@@ -4,8 +4,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # Check whether the dataset has been changed since the last run
 SELECT (?dateModified AS ?identifier) ?isChanged
 WHERE {
-  BIND("?_currentIdentifier"^^xsd:dateTime AS ?currentDateModified)
   <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> schema:dateModified ?rawDateModified .
   BIND(xsd:dateTime(?rawDateModified) AS ?dateModified)
+  BIND("?_currentIdentifier"^^xsd:dateTime AS ?currentDateModified)
   BIND(?dateModified > ?currentDateModified AS ?isChanged)
 }
